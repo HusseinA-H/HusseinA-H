@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hussein Ahmed Hussein Abd-Elaziz</h1>
+<h1 align="center">Hi 👋, I'm Hussein Ahmed Abd-Elaziz</h1>
 
 <h3 align="center">Junior Full Stack Developer</h3>
 
