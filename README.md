@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://i.ibb.co/7tXXFcCJ/banner.png" alt="Hussein Ahmed Banner"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Hussein Ahmed Hussein Abd-Elaziz</h1>
 
 <h3 align="center">Junior Full Stack Developer</h3>
