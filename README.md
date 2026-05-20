@@ -82,13 +82,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HusseinA-H&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HusseinA-H&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinA-H&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=HusseinA-H&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinA-H&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinA-H&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HusseinA-H/HusseinA-H/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/HusseinA-H/HusseinA-H/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
