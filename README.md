@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100%" src="https://i.ibb.co/7tXXFcCJ/banner.png" alt="Hussein Ahmed Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Hussein Ahmed Hussein Abd-Elaziz</h1>
 
 <h3 align="center">Junior Full Stack Developer</h3>
@@ -82,16 +86,28 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HusseinA-H&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HusseinA-H&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinA-H&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinA-H&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinA-H&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HusseinA-H/HusseinA-H/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/husseinahmedabdelaziz/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -103,6 +119,16 @@
   <a href="mailto:aha.hussein@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+</p>
+
+---
+
+## 💡 Developer Quote
+
+<p align="center">
+  
+> "Code is my craft. Building is my passion."
+
 </p>
 
 ---
