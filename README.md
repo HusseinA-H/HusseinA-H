@@ -79,12 +79,16 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HusseinA-H&show_icons=true&theme=tokyonight&hide_border=true" />
   
   <img width="49%" src="https://streak-stats.demolab.com?user=HusseinA-H&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HusseinA-H&theme=tokyonight" />
 </p>
 
 ---
